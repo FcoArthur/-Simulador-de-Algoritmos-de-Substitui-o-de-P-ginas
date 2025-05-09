@@ -3,8 +3,8 @@ import java.util.*;
 public class Comparador {
 
     public static void main(String[] args) {
-        List<Integer> paginas = Arrays.asList(0,6,5,6,3,3,5,6,0);
-        int capacidade = 3;
+        List<Integer> paginas = Arrays.asList(0,6,5,6,3,3,5,6,0);//entrada de paginas  
+        int capacidade = 3;//tamanho da memoria 
 
         System.out.println("Comparando algoritmos de substituição de páginas...\n");
 
